@@ -3,9 +3,6 @@
 
 ---
 
-### 🔭 Currently Working On
-- **InBetween** – a mobile app built with React Native (learning full-stack development by building real apps)
-
 ### 🌱 Currently Learning
 - **React Native** and exploring **full-stack mobile app development**
 
@@ -18,7 +15,7 @@ All of my projects are available at: [subhadipberacode](https://github.com/subha
 ### 🏆 Achievements
 - **3⭐ Coder on CodeChef**
 - **Codeforces Pupil**
-- **LeetCode Rating 1660+**
+- **LeetCode Rating 1770+**
 
 ### ⚡ Fun Fact
 - I think I am **introvert 😐😂**
